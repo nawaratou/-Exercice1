@@ -1,6 +1,6 @@
-# Exercice 1 – Correction
+ Exercice 1 – Correction
 
-## Commandes exécutées
+ Commandes exécutées
 mkdir cli_tmp
 cd cli_tmp
 touch je_suis_dans_tmp.txt
@@ -19,7 +19,7 @@ cd parent/ami
 pwd
 cd ~ 
 
-## Remarques personnelles
-- J’ai eu un peu de mal avec la commande `mv` pour déplacer le fichier dans un autre dossier.
+ Remarques personnelles
+- J’ai eu un peu de mal avec la commande 'mv' pour déplacer le fichier dans un autre dossier.
 - J’ai appris à créer plusieurs dossiers en une seule commande.
 
